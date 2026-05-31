@@ -6,6 +6,9 @@
 ![Status](https://img.shields.io/badge/Project-Completed-green.svg)
 
 ---
+## PPT Presentation
+
+[View PPT](https://github.com/06-10-2004/EV-Data-Analytics-Dashboard/blob/main/Presentation/Electric%20Vehicle%20In%20India.pdf)
 
 ## Project Overview
 
